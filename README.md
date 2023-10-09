@@ -1,3 +1,6 @@
+# Hosted on GitHub Pages
+
+This project is hosted on [nasa-react-client](https://codeskul.github.io/nasa-react-client/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
