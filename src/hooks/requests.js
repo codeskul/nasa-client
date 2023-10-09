@@ -1,4 +1,5 @@
-const API_URL = "http://localhost:8000";
+// const API_URL = "http://localhost:8000";
+const API_URL = "https://nasa-express-api.onrender.com";
 
 // Load planets and return as JSON.
 async function httpGetPlanets() {
